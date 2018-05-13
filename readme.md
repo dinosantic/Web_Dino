@@ -1,3 +1,3 @@
 * My portofolio
 
-This is my photography website made by using CSS grid and Bootstrap.
+This is my photography website made with CSS grid and Bootstrap 3 (navbar).
