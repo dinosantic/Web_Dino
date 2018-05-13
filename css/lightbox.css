@@ -210,34 +210,3 @@ html.lb-disable-scrolling {
   filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100);
   opacity: 1;
 }
-div{
-  margin: 2em 0 2em 0;
-}
-.street{
-  margin: 1.5em 1em 0 1em;
-  padding:  0.3em;
-}
-.landscape{
-  margin: 0 1em 0 1em;
-  padding:  0.3em;
-}
-.nature{
-  margin: 0 1em 0 1em;
-  padding:  0.3em;
-}
-.portrait{
-  margin: 0 1em 0em 1em;
-  padding:  0.3em;
-}
-.lastvid{
-  margin-bottom: 4em;
-}
-p{
-  font-family: 'Kaushan Script', cursive;
-  font-size: 200%;
-  box-shadow: 0.1em 0 0.3em rgba(0, 0, 0, 0.2), -0.1em 0 0.3em rgba(0, 0, 0, 0.2);
-  margin: 0 1em 0 1em;
-}
-img{
-  margin-bottom: 0.5em;
-}
