@@ -17,5 +17,5 @@ $(document).ready(function(){
             backSpeed: 10,
             fadeOut: true,
             loop: true
-  });
+ });
 
